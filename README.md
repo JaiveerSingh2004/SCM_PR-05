@@ -27,6 +27,9 @@
 
 ### [26-4-2024] - Milestone 1
 
+- **Primary Owner:** Jai Aditya
+- **Secondary Owner:** Jaiveer Singh
+
 ✅ Set up project repository
 
 ✅ Define project scope
@@ -37,6 +40,9 @@
 
 ### [29-4-2024] - Milestone 2
 
+- **Primary Owner:** Jaiveer Singh
+- **Secondary Owner:** Jashan Yadav
+
 ✅ Complete frontend development
 
 ✅ Implement backend functionalities
@@ -45,13 +51,22 @@
 
 ### [3-5-2024] - Milestone 3
 
+- **Primary Owner:** Jai Aditya
+- **Secondary Owner:** Jashan Yadav
+
 ✅ Finish testing
 
 ✅Finalize documentation
 
 ✅ Prepare for project submission
 
+- **Primary Owner:** Jaiveer Singh
+- **Secondary Owner:** Jai Aditya Singh
+
 ### [10-5-2024] - Completion
+
+- **Primary Owner:** Jaashan Yadav
+- **Secondary Owner:** Jaiveer Singh
 
 ✅ Complete final checks
 
